@@ -1,4 +1,4 @@
-import { ORDER_FORM_CHANGE, SET_PLACEMARK_POSITION, SET_CREWS_INFO, SET_CREW_INFO, SET_SELECT_CREW_INFO } from "../actions/orderActions";
+import { ORDER_FORM_CHANGE, SET_PLACEMARK_POSITION, SET_CREWS_INFO, SET_SELECT_CREW_INFO } from "../actions/orderActions";
 import { CrewInfo } from "../components/Order/OrderService";
 
 export type MapPosition = [number, number];
